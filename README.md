@@ -41,4 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhurva6&show_icons=true&locale=en" alt="Bhurva" width="410" /></p>
 
 <hr>
-[![Bhurva's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bhurva6&custom_title=Bhurva's%20Activity%20Graph&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bhurva's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bhurva6&custom_title=Bhurva's%20Activity%20Graph&theme=redical&hide_border=true)]
