@@ -41,4 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhurva6&show_icons=true&locale=en" alt="Bhurva" width="410" /></p>
 
 <hr>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhurva6&show_icons=true&theme=radical" alt="Bhurva6" /></p>
+
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bhurva6&theme=material-palenight&date_format=j%20M%5B%20Y%5D&ring=DD0000" alt="Bhurva6" /></p>
+
 [![Bhurva's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bhurva6&custom_title=Bhurva's%20Activity%20Graph&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
