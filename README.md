@@ -41,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhurva6&show_icons=true&locale=en" alt="Bhurva" width="410" /></p>
 
 <hr>
+
+[![Bhurva's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bhurva6)](https://github.com/Bhurva6/github-readme-activity-graph)
