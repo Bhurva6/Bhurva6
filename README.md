@@ -7,7 +7,7 @@
  <p align="left">
   <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Flutter Application Development & also doing 100 days of code in Python!
 - 🤔 &nbsp; Exploring new technologies and developing solutions to real world problems and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Android developer and UI/UX Designer.
