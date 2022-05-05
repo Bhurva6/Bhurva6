@@ -20,7 +20,7 @@
 - 🌐 &nbsp; Android | Flutter | HTML 
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Figma | Adobe Spark Post 
+- 🖥 &nbsp; Adobe Xd | Figma 
 
  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know***
